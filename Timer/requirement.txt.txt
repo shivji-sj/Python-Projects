@@ -1,4 +1,0 @@
-pip install audioplayer
-pip install time
-pip install PIL 
-from PIL import Image
