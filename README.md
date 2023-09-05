@@ -3,15 +3,7 @@ In this Repository, All project made under python and her libraries.
 
 ## Python Program List : 
 
-001 Dice Rolling
-002 Random Number Guesser
-003 Timer
-004 Digital Clock
 
-
-
-
-# Some description about the projects.
 001 Dice Rolling : It is the program to roll the dice. It is usefull game like "Ludo" and other games. where we need to roll the dice.
 ![sample3](https://github.com/shivji-sj/Python-Projects/assets/67848182/145b7175-5272-47ea-a858-1a1ae4b89e0a)
 ![sample2](https://github.com/shivji-sj/Python-Projects/assets/67848182/b1582f3f-43e7-4dfa-857d-3ca9072e25fe)
